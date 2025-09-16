@@ -39,20 +39,20 @@ jogo-da-memoria/
 ├── script.js
 ├── assets/
 │   ├── capa-flashflow.png
-│   ├── lines.svg
-│   ├── logo.svg
-│   ├── preview.gif
+│   ├── logo-flashcard.svg
+
 ```
 
 
 ## ⚙️ Funcionalidades
 
-- Embaralhamento automático das cartas a cada nova partida
-- Verificação de pares corretos
+- Mudança de card ao clicar no botão
+- Ver resposta do card ao clicar no card
+- Voltar para a pergunta com o clique
 - Animações de flip e delay de cartas
-- Contador de tentativas
-- Botão de reiniciar partida
+- Contador de card
 - Layout adaptável para dispositivos móveis
 
-## 💁🏻‍♀️ Autor
+## 💁🏻‍♀️ Autora
+
 Desenvolvido com ❤️ por Rayanne Vieira

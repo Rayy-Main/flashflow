@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: "Inter", sans-serif;
+  background: #F8F7FF;
+  max-width: 100%;
+  min-height: 100dvh;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-container{
+ max-width: 100%;
+  padding: 0 1rem 0 1rem;
+}
+
+.title{
+  font-size: 2rem;
+  font-family: "Sora", sans-serif;
+  color: #8b5cf6;
+  font-weight: bold;
+  margin-bottom: clamp(.8rem, 5vw, 2.5rem);
+}
+.card-stats{
+  color: #3f4658;
+}
+.text-info{
+  color: #3f4658;
+  font-size: 0.875rem;
+  margin-bottom: clamp(.8rem, 5vw, 2.5rem);
+}
+
+.card-flip{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 270px;
+  height: 240px;
+  background: #ffffff;
+  border-radius: 1.5rem;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  border: 1px solid #e2e2e2;
+  padding: 1.5rem;
+  cursor: pointer;
+  transition: background 0.1s ease-out;
+}
+
+
+.answer  {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #3f4658;
+  display: none;
+
+}
+
+.question{
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: #3f4658;
+  display: none;
+}
+
+.button{
+  font-family: "Inter", sans-serif;
+  color: #ffffff;
+  background: #6a3fcb;
+  font-size: .875rem;
+  font-weight: 600;
+  padding: 1rem 1.25rem;
+  border-radius: 8px;
+  border: none;
+  transition: background 0.3s ease-in;
+}
+
+.button:hover{
+  background: #8b5cf6;
+}
+

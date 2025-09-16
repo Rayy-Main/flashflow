@@ -8,7 +8,7 @@ Um simples e divertido **Flash Card** desenvolvido com **HTML5**, **CSS3** e **J
 
 ## 🚀 Acesse o FlashCard
 
-👉 [Clique aqui para jogar agora](https://github.com/Rayy-Main/flashflow)
+👉 [Clique aqui para jogar agora](https://rayy-main.github.io/flashflow/)
 
 ---
 
@@ -56,4 +56,5 @@ jogo-da-memoria/
 ## 💁🏻‍♀️ Autora
 
 Desenvolvido com ❤️ por Rayanne Vieira
+
 

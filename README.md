@@ -33,7 +33,7 @@ O FlashCard é composto por 5 perguntas e respostas prontas, o objetivo é clica
 ## 📁 Estrutura de Pastas
 
 ```bash
-jogo-da-memoria/
+flashcards/
 ├── index.html
 ├── style.css
 ├── script.js
@@ -56,5 +56,6 @@ jogo-da-memoria/
 ## 💁🏻‍♀️ Autora
 
 Desenvolvido com ❤️ por Rayanne Vieira
+
 
 
